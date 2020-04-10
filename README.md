@@ -1,79 +1,65 @@
-## Welcome to Apache Tomcat!
 
-### What Is It?
 
-The Apache Tomcat® software is an open source implementation of the Java
-Servlet, JavaServer Pages, Java Expression Language and Java WebSocket
-technologies. The Java Servlet, JavaServer Pages, Java Expression Language and
-Java WebSocket specifications are developed under the
-[Java Community Process](https://jcp.org/en/introduction/overview).
 
-The Apache Tomcat software is developed in an open and participatory
-environment and released under the
-[Apache License version 2](https://www.apache.org/licenses/). The Apache Tomcat
-project is intended to be a collaboration of the best-of-breed developers from
-around the world. We invite you to participate in this open development
-project. To learn more about getting involved,
-[click here](https://tomcat.apache.org/getinvolved.html) or keep reading.
+#### demo ####
+1.编辑器打开three.js项目。项目在路径apache-tomcat-9.0.31\webapps\three.js下
+2.进入项目，本地打开在Test1目录下的class1.html,可以直接本地chrome打开。
+3.也可以用tomcat访问下面有使用介绍。
 
-Apache Tomcat software powers numerous large-scale, mission-critical web
-applications across a diverse range of industries and organizations. Some of
-these users and their stories are listed on the
-[PoweredBy wiki page](https://wiki.apache.org/tomcat/PoweredBy).
+### flv.js ###
 
-Apache Tomcat, Tomcat, Apache, the Apache feather, and the Apache Tomcat
-project logo are trademarks of the Apache Software Foundation.
+在js中引入flv.js
+```$xslt
+<script src="flv.min.js"></script>
+```
+```javascript
+video = document.getElementById( 'videoElement' );
+		// video.play();
+		if (flvjs.isSupported()) {
+			var flvPlayer = flvjs.createPlayer({
+				type: 'flv',
+				url: 'url'//添加路由
+			});
+			flvPlayer.attachMediaElement(videoElement);
+			flvPlayer.load(); //加载
+		}
+		//创建纹理视频
+		texture = new THREE.VideoTexture( video );
 
-### Get It
+```
 
-For every major Tomcat version there is one download page containing
-links to the latest binary and source code downloads, but also
-links for browsing the download directories and archives:
-- [Tomcat 9](https://tomcat.apache.org/download-90.cgi)
-- [Tomcat 8](https://tomcat.apache.org/download-80.cgi)
-- [Tomcat 7](https://tomcat.apache.org/download-70.cgi)
 
-To facilitate choosing the right major Tomcat version one, we have provided a
-[version overview page](https://tomcat.apache.org/whichversion.html).
+### 调用摄像头 ###
+注意：摄像头需要开启浏览器权限，备注掉flv.js部分代码。
+```javascript
+	//调用摄像头
 
-### Documentation
+ window.addEventListener( 'resize', onWindowResize, false );
 
-The documentation available as of the date of this release is
-included in the docs webapp which ships with tomcat. You can access that webapp
-by starting tomcat and visiting http://localhost:8080/docs/ in your browser.
-The most up-to-date documentation for each version can be found at:
-- [Tomcat 9](https://tomcat.apache.org/tomcat-9.0-doc/)
-- [Tomcat 8](https://tomcat.apache.org/tomcat-8.5-doc/)
-- [Tomcat 7](https://tomcat.apache.org/tomcat-7.0-doc/)
+ if ( navigator.mediaDevices && navigator.mediaDevices.getUserMedia ) {
 
-### Installation
+ 	var constraints = { video: { width: 1280, height: 720, facingMode: 'user' } };
 
-Please see [RUNNING.txt](RUNNING.txt) for more info.
+ 	navigator.mediaDevices.getUserMedia( constraints ).then( function ( stream ) {
 
-### Licensing
+ 		// apply the stream to the video element used in the texture
 
-Please see [LICENSE](LICENSE) for more info.
+ 		video.srcObject = stream;
+ 		video.play();
 
-### Support and Mailing List Information
+ 	} ).catch( function ( error ) {
 
-* Free community support is available through the
-[tomcat-users](https://tomcat.apache.org/lists.html#tomcat-users) email list and
-a dedicated [IRC channel](https://tomcat.apache.org/irc.html) (#tomcat on
-Freenode).
+ 		console.error( 'Unable to access the camera/webcam.', error );
 
-* If you want freely available support for running Apache Tomcat, please see the
-resources page [here](https://tomcat.apache.org/findhelp.html).
+ 	} );
 
-* If you want to be informed about new code releases, bug fixes,
-security fixes, general news and information about Apache Tomcat, please
-subscribe to the
-[tomcat-announce](https://tomcat.apache.org/lists.html#tomcat-announce) email
-list.
+ } else {
 
-* If you have a concrete bug report for Apache Tomcat, please see the
-instructions for reporting a bug
-[here](https://tomcat.apache.org/bugreport.html).
+ 	console.error( 'MediaDevices interface not available.' );
+ }
+```
+###  使用tomcat ###
+1.进入apache-tomcat-9.0.31\bin；双击启动startup.bat。
 
-### Contributing
+2.访问localhost:8080/three.js/Test1/demo1.html
 
-Please see [CONTRIBUTING](CONTRIBUTING.md) for more info.
