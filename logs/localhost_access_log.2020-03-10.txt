@@ -1,0 +1,15 @@
+127.0.0.1 - - [10/Mar/2020:14:45:06 +0800] "GET /jiteng/admin/index.html HTTP/1.1" 304 -
+127.0.0.1 - - [10/Mar/2020:14:45:07 +0800] "GET /jiteng/static/js/main.js HTTP/1.1" 304 -
+127.0.0.1 - - [10/Mar/2020:14:45:07 +0800] "GET /jiteng/static/css/main.css HTTP/1.1" 304 -
+127.0.0.1 - - [10/Mar/2020:14:45:07 +0800] "GET /jiteng/static/images/jiteng.png HTTP/1.1" 304 -
+127.0.0.1 - - [10/Mar/2020:14:45:07 +0800] "GET /jiteng/static/images/services/bg_services.png HTTP/1.1" 404 740
+127.0.0.1 - - [10/Mar/2020:14:45:07 +0800] "GET /jiteng/static/images/slider/bg4.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [10/Mar/2020:14:45:07 +0800] "GET /jiteng/static/images/ico/favicon.ico HTTP/1.1" 404 731
+127.0.0.1 - - [10/Mar/2020:14:45:19 +0800] "GET /element/index.html HTTP/1.1" 200 3759
+127.0.0.1 - - [10/Mar/2020:14:45:19 +0800] "GET /element/liveplayer-element.min.js HTTP/1.1" 200 1352672
+127.0.0.1 - - [10/Mar/2020:14:45:32 +0800] "GET /element/liveplayer.swf HTTP/1.1" 200 75257
+127.0.0.1 - - [10/Mar/2020:14:45:34 +0800] "GET /element/index.html HTTP/1.1" 304 -
+127.0.0.1 - - [10/Mar/2020:14:45:35 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+127.0.0.1 - - [10/Mar/2020:14:46:02 +0800] "GET /element/index.html HTTP/1.1" 304 -
+127.0.0.1 - - [10/Mar/2020:14:46:02 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+127.0.0.1 - - [10/Mar/2020:14:47:12 +0800] "GET /element/index.html HTTP/1.1" 304 -

@@ -1,0 +1,325 @@
+26-Feb-2020 14:16:34.184 ä¿¡æ¯ [main] org.apache.catalina.startup.VersionLoggerListener.log Server.æœåŠ¡å™¨ç‰ˆæœ¬:     Apache Tomcat/9.0.31
+26-Feb-2020 14:16:34.196 ä¿¡æ¯ [main] org.apache.catalina.startup.VersionLoggerListener.log æœåŠ¡å™¨æ„å»º:            Feb 5 2020 19:32:12 UTC
+26-Feb-2020 14:16:34.197 ä¿¡æ¯ [main] org.apache.catalina.startup.VersionLoggerListener.log æœåŠ¡å™¨ç‰ˆæœ¬å·(ï¼š9.0.31.0
+26-Feb-2020 14:16:34.199 ä¿¡æ¯ [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+26-Feb-2020 14:16:34.199 ä¿¡æ¯ [main] org.apache.catalina.startup.VersionLoggerListener.log OS.ç‰ˆæœ¬:               10.0
+26-Feb-2020 14:16:34.199 ä¿¡æ¯ [main] org.apache.catalina.startup.VersionLoggerListener.log æ¶æ„:                  amd64
+26-Feb-2020 14:16:34.199 ä¿¡æ¯ [main] org.apache.catalina.startup.VersionLoggerListener.log Java ç¯å¢ƒå˜é‡:         C:\Program Files\Java\jdk1.8.0_202\jre
+26-Feb-2020 14:16:34.199 ä¿¡æ¯ [main] org.apache.catalina.startup.VersionLoggerListener.log JVM ç‰ˆæœ¬:              1.8.0_202-b08
+26-Feb-2020 14:16:34.199 ä¿¡æ¯ [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.ä¾›åº”å•†:            Oracle Corporation
+26-Feb-2020 14:16:34.200 ä¿¡æ¯ [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\tools\apache-tomcat-9.0.31
+26-Feb-2020 14:16:34.200 ä¿¡æ¯ [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\tools\apache-tomcat-9.0.31
+26-Feb-2020 14:16:34.202 ä¿¡æ¯ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\tools\apache-tomcat-9.0.31\conf\logging.properties
+26-Feb-2020 14:16:34.202 ä¿¡æ¯ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+26-Feb-2020 14:16:34.202 ä¿¡æ¯ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+26-Feb-2020 14:16:34.203 ä¿¡æ¯ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+26-Feb-2020 14:16:34.204 ä¿¡æ¯ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+26-Feb-2020 14:16:34.204 ä¿¡æ¯ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\tools\apache-tomcat-9.0.31
+26-Feb-2020 14:16:34.204 ä¿¡æ¯ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\tools\apache-tomcat-9.0.31
+26-Feb-2020 14:16:34.205 ä¿¡æ¯ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\tools\apache-tomcat-9.0.31\temp
+26-Feb-2020 14:16:34.219 ä¿¡æ¯ [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+26-Feb-2020 14:16:34.220 ä¿¡æ¯ [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+26-Feb-2020 14:16:34.221 ä¿¡æ¯ [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSLé…ç½®ï¼šuseAprConnector[false]ï¼ŒuseOpenSSL[true]
+26-Feb-2020 14:16:34.226 ä¿¡æ¯ [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+26-Feb-2020 14:16:34.660 ä¿¡æ¯ [main] org.apache.coyote.AbstractProtocol.init åˆå§‹åŒ–åè®®å¤„ç†å™¨ ["http-nio-8080"]
+26-Feb-2020 14:16:35.689 ä¿¡æ¯ [main] org.apache.catalina.startup.Catalina.load æœåŠ¡å™¨åœ¨[1,771]æ¯«ç§’å†…åˆå§‹åŒ–
+26-Feb-2020 14:16:35.748 ä¿¡æ¯ [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+26-Feb-2020 14:16:35.748 ä¿¡æ¯ [main] org.apache.catalina.core.StandardEngine.startInternal æ­£åœ¨å¯åŠ¨ Servlet å¼•æ“ï¼š[Apache Tomcat/9.0.31]
+26-Feb-2020 14:16:35.767 ä¿¡æ¯ [main] org.apache.catalina.startup.HostConfig.deployDirectory æŠŠweb åº”ç”¨ç¨‹åºéƒ¨ç½²åˆ°ç›®å½• [D:\tools\apache-tomcat-9.0.31\webapps\docs]
+26-Feb-2020 14:16:36.105 ä¿¡æ¯ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\docs] has finished in [338] ms
+26-Feb-2020 14:16:36.105 ä¿¡æ¯ [main] org.apache.catalina.startup.HostConfig.deployDirectory æŠŠweb åº”ç”¨ç¨‹åºéƒ¨ç½²åˆ°ç›®å½• [D:\tools\apache-tomcat-9.0.31\webapps\examples]
+26-Feb-2020 14:16:36.429 ä¿¡æ¯ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\examples] has finished in [324] ms
+26-Feb-2020 14:16:36.429 ä¿¡æ¯ [main] org.apache.catalina.startup.HostConfig.deployDirectory æŠŠweb åº”ç”¨ç¨‹åºéƒ¨ç½²åˆ°ç›®å½• [D:\tools\apache-tomcat-9.0.31\webapps\host-manager]
+26-Feb-2020 14:16:36.462 ä¿¡æ¯ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\host-manager] has finished in [33] ms
+26-Feb-2020 14:16:36.462 ä¿¡æ¯ [main] org.apache.catalina.startup.HostConfig.deployDirectory æŠŠweb åº”ç”¨ç¨‹åºéƒ¨ç½²åˆ°ç›®å½• [D:\tools\apache-tomcat-9.0.31\webapps\jiteng]
+26-Feb-2020 14:16:36.490 ä¿¡æ¯ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\jiteng] has finished in [27] ms
+26-Feb-2020 14:16:36.490 ä¿¡æ¯ [main] org.apache.catalina.startup.HostConfig.deployDirectory æŠŠweb åº”ç”¨ç¨‹åºéƒ¨ç½²åˆ°ç›®å½• [D:\tools\apache-tomcat-9.0.31\webapps\manager]
+26-Feb-2020 14:16:36.527 ä¿¡æ¯ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\manager] has finished in [37] ms
+26-Feb-2020 14:16:36.528 ä¿¡æ¯ [main] org.apache.catalina.startup.HostConfig.deployDirectory æŠŠweb åº”ç”¨ç¨‹åºéƒ¨ç½²åˆ°ç›®å½• [D:\tools\apache-tomcat-9.0.31\webapps\ROOT]
+26-Feb-2020 14:16:36.561 ä¿¡æ¯ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\ROOT] has finished in [33] ms
+26-Feb-2020 14:16:36.564 ä¿¡æ¯ [main] org.apache.coyote.AbstractProtocol.start å¼€å§‹åè®®å¤„ç†å¥æŸ„["http-nio-8080"]
+26-Feb-2020 14:16:36.576 ä¿¡æ¯ [main] org.apache.catalina.startup.Catalina.start Server startup in [886] milliseconds
+26-Feb-2020 14:18:35.467 ä¿¡æ¯ [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+26-Feb-2020 14:18:35.468 ä¿¡æ¯ [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+26-Feb-2020 14:18:36.337 ä¿¡æ¯ [main] org.apache.catalina.core.StandardService.stopInternal æ­£åœ¨åœæ­¢æœåŠ¡[Catalina]
+26-Feb-2020 14:18:36.354 ä¿¡æ¯ [main] org.apache.coyote.AbstractProtocol.stop æ­£åœ¨åœæ­¢ProtocolHandler ["http-nio-8080"]
+26-Feb-2020 14:18:36.357 ä¿¡æ¯ [main] org.apache.coyote.AbstractProtocol.destroy æ­£åœ¨æ‘§æ¯åè®®å¤„ç†å™¨ ["http-nio-8080"]
+26-Feb-2020 14:18:42.744 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Server.·şÎñÆ÷°æ±¾:     Apache Tomcat/9.0.31
+26-Feb-2020 14:18:42.747 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log ·şÎñÆ÷¹¹½¨:            Feb 5 2020 19:32:12 UTC
+26-Feb-2020 14:18:42.748 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log ·şÎñÆ÷°æ±¾ºÅ(£º9.0.31.0
+26-Feb-2020 14:18:42.748 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+26-Feb-2020 14:18:42.748 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log OS.°æ±¾:               10.0
+26-Feb-2020 14:18:42.748 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log ¼Ü¹¹:                  amd64
+26-Feb-2020 14:18:42.748 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Java »·¾³±äÁ¿:         C:\Program Files\Java\jdk1.8.0_202\jre
+26-Feb-2020 14:18:42.749 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log JVM °æ±¾:              1.8.0_202-b08
+26-Feb-2020 14:18:42.749 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.¹©Ó¦ÉÌ:            Oracle Corporation
+26-Feb-2020 14:18:42.749 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\tools\apache-tomcat-9.0.31
+26-Feb-2020 14:18:42.749 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\tools\apache-tomcat-9.0.31
+26-Feb-2020 14:18:42.749 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\tools\apache-tomcat-9.0.31\conf\logging.properties
+26-Feb-2020 14:18:42.750 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+26-Feb-2020 14:18:42.750 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+26-Feb-2020 14:18:42.750 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+26-Feb-2020 14:18:42.750 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+26-Feb-2020 14:18:42.750 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\tools\apache-tomcat-9.0.31
+26-Feb-2020 14:18:42.754 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\tools\apache-tomcat-9.0.31
+26-Feb-2020 14:18:42.754 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\tools\apache-tomcat-9.0.31\temp
+26-Feb-2020 14:18:42.755 ĞÅÏ¢ [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+26-Feb-2020 14:18:42.755 ĞÅÏ¢ [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+26-Feb-2020 14:18:42.755 ĞÅÏ¢ [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSLÅäÖÃ£ºuseAprConnector[false]£¬useOpenSSL[true]
+26-Feb-2020 14:18:42.760 ĞÅÏ¢ [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+26-Feb-2020 14:18:42.965 ĞÅÏ¢ [main] org.apache.coyote.AbstractProtocol.init ³õÊ¼»¯Ğ­Òé´¦ÀíÆ÷ ["http-nio-8080"]
+26-Feb-2020 14:18:43.860 ĞÅÏ¢ [main] org.apache.catalina.startup.Catalina.load ·şÎñÆ÷ÔÚ[1,268]ºÁÃëÄÚ³õÊ¼»¯
+26-Feb-2020 14:18:43.880 ĞÅÏ¢ [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+26-Feb-2020 14:18:43.880 ĞÅÏ¢ [main] org.apache.catalina.core.StandardEngine.startInternal ÕıÔÚÆô¶¯ Servlet ÒıÇæ£º[Apache Tomcat/9.0.31]
+26-Feb-2020 14:18:43.887 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\docs]
+26-Feb-2020 14:18:44.038 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\docs] has finished in [151] ms
+26-Feb-2020 14:18:44.039 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\examples]
+26-Feb-2020 14:18:44.222 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\examples] has finished in [184] ms
+26-Feb-2020 14:18:44.222 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\host-manager]
+26-Feb-2020 14:18:44.243 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\host-manager] has finished in [21] ms
+26-Feb-2020 14:18:44.243 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\jiteng]
+26-Feb-2020 14:18:44.260 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\jiteng] has finished in [17] ms
+26-Feb-2020 14:18:44.260 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\manager]
+26-Feb-2020 14:18:44.276 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\manager] has finished in [16] ms
+26-Feb-2020 14:18:44.276 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\ROOT]
+26-Feb-2020 14:18:44.290 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\ROOT] has finished in [14] ms
+26-Feb-2020 14:18:44.294 ĞÅÏ¢ [main] org.apache.coyote.AbstractProtocol.start ¿ªÊ¼Ğ­Òé´¦Àí¾ä±ú["http-nio-8080"]
+26-Feb-2020 14:18:44.300 ĞÅÏ¢ [main] org.apache.catalina.startup.Catalina.start Server startup in [439] milliseconds
+26-Feb-2020 15:23:49.060 ĞÅÏ¢ [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+26-Feb-2020 15:23:49.900 ĞÅÏ¢ [Thread-4] org.apache.catalina.core.StandardService.stopInternal ÕıÔÚÍ£Ö¹·şÎñ[Catalina]
+26-Feb-2020 15:23:49.933 ĞÅÏ¢ [Thread-4] org.apache.coyote.AbstractProtocol.stop ÕıÔÚÍ£Ö¹ProtocolHandler ["http-nio-8080"]
+26-Feb-2020 15:23:49.935 ĞÅÏ¢ [Thread-4] org.apache.coyote.AbstractProtocol.destroy ÕıÔÚ´İ»ÙĞ­Òé´¦ÀíÆ÷ ["http-nio-8080"]
+26-Feb-2020 15:24:10.286 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Server.·şÎñÆ÷°æ±¾:     Apache Tomcat/9.0.31
+26-Feb-2020 15:24:10.289 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log ·şÎñÆ÷¹¹½¨:            Feb 5 2020 19:32:12 UTC
+26-Feb-2020 15:24:10.289 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log ·şÎñÆ÷°æ±¾ºÅ(£º9.0.31.0
+26-Feb-2020 15:24:10.289 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+26-Feb-2020 15:24:10.289 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log OS.°æ±¾:               10.0
+26-Feb-2020 15:24:10.290 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log ¼Ü¹¹:                  amd64
+26-Feb-2020 15:24:10.290 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Java »·¾³±äÁ¿:         C:\Program Files\Java\jdk1.8.0_202\jre
+26-Feb-2020 15:24:10.290 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log JVM °æ±¾:              1.8.0_202-b08
+26-Feb-2020 15:24:10.290 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.¹©Ó¦ÉÌ:            Oracle Corporation
+26-Feb-2020 15:24:10.290 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\tools\apache-tomcat-9.0.31
+26-Feb-2020 15:24:10.290 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\tools\apache-tomcat-9.0.31
+26-Feb-2020 15:24:10.291 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\tools\apache-tomcat-9.0.31\conf\logging.properties
+26-Feb-2020 15:24:10.291 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+26-Feb-2020 15:24:10.291 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+26-Feb-2020 15:24:10.291 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+26-Feb-2020 15:24:10.291 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+26-Feb-2020 15:24:10.291 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\tools\apache-tomcat-9.0.31
+26-Feb-2020 15:24:10.291 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\tools\apache-tomcat-9.0.31
+26-Feb-2020 15:24:10.292 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\tools\apache-tomcat-9.0.31\temp
+26-Feb-2020 15:24:10.292 ĞÅÏ¢ [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+26-Feb-2020 15:24:10.293 ĞÅÏ¢ [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+26-Feb-2020 15:24:10.293 ĞÅÏ¢ [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSLÅäÖÃ£ºuseAprConnector[false]£¬useOpenSSL[true]
+26-Feb-2020 15:24:10.300 ĞÅÏ¢ [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+26-Feb-2020 15:24:10.529 ĞÅÏ¢ [main] org.apache.coyote.AbstractProtocol.init ³õÊ¼»¯Ğ­Òé´¦ÀíÆ÷ ["http-nio-8080"]
+26-Feb-2020 15:24:11.451 ĞÅÏ¢ [main] org.apache.catalina.startup.Catalina.load ·şÎñÆ÷ÔÚ[1,322]ºÁÃëÄÚ³õÊ¼»¯
+26-Feb-2020 15:24:11.473 ĞÅÏ¢ [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+26-Feb-2020 15:24:11.473 ĞÅÏ¢ [main] org.apache.catalina.core.StandardEngine.startInternal ÕıÔÚÆô¶¯ Servlet ÒıÇæ£º[Apache Tomcat/9.0.31]
+26-Feb-2020 15:24:11.480 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\docs]
+26-Feb-2020 15:24:11.638 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\docs] has finished in [158] ms
+26-Feb-2020 15:24:11.639 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\examples]
+26-Feb-2020 15:24:11.830 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\examples] has finished in [191] ms
+26-Feb-2020 15:24:11.830 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\host-manager]
+26-Feb-2020 15:24:11.850 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\host-manager] has finished in [20] ms
+26-Feb-2020 15:24:11.851 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\jiteng]
+26-Feb-2020 15:24:11.871 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\jiteng] has finished in [20] ms
+26-Feb-2020 15:24:11.872 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\manager]
+26-Feb-2020 15:24:11.889 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\manager] has finished in [17] ms
+26-Feb-2020 15:24:11.890 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\ROOT]
+26-Feb-2020 15:24:11.905 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\ROOT] has finished in [15] ms
+26-Feb-2020 15:24:11.909 ĞÅÏ¢ [main] org.apache.coyote.AbstractProtocol.start ¿ªÊ¼Ğ­Òé´¦Àí¾ä±ú["http-nio-8080"]
+26-Feb-2020 15:24:11.915 ĞÅÏ¢ [main] org.apache.catalina.startup.Catalina.start Server startup in [463] milliseconds
+26-Feb-2020 15:28:03.041 ĞÅÏ¢ [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+26-Feb-2020 15:28:03.906 ĞÅÏ¢ [Thread-4] org.apache.catalina.core.StandardService.stopInternal ÕıÔÚÍ£Ö¹·şÎñ[Catalina]
+26-Feb-2020 15:28:03.920 ĞÅÏ¢ [Thread-4] org.apache.coyote.AbstractProtocol.stop ÕıÔÚÍ£Ö¹ProtocolHandler ["http-nio-8080"]
+26-Feb-2020 15:28:03.923 ĞÅÏ¢ [Thread-4] org.apache.coyote.AbstractProtocol.destroy ÕıÔÚ´İ»ÙĞ­Òé´¦ÀíÆ÷ ["http-nio-8080"]
+26-Feb-2020 15:28:50.678 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Server.·şÎñÆ÷°æ±¾:     Apache Tomcat/9.0.31
+26-Feb-2020 15:28:50.681 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log ·şÎñÆ÷¹¹½¨:            Feb 5 2020 19:32:12 UTC
+26-Feb-2020 15:28:50.681 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log ·şÎñÆ÷°æ±¾ºÅ(£º9.0.31.0
+26-Feb-2020 15:28:50.681 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+26-Feb-2020 15:28:50.682 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log OS.°æ±¾:               10.0
+26-Feb-2020 15:28:50.682 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log ¼Ü¹¹:                  amd64
+26-Feb-2020 15:28:50.682 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Java »·¾³±äÁ¿:         C:\Program Files\Java\jdk1.8.0_202\jre
+26-Feb-2020 15:28:50.682 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log JVM °æ±¾:              1.8.0_202-b08
+26-Feb-2020 15:28:50.682 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.¹©Ó¦ÉÌ:            Oracle Corporation
+26-Feb-2020 15:28:50.682 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\tools\apache-tomcat-9.0.31
+26-Feb-2020 15:28:50.683 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\tools\apache-tomcat-9.0.31
+26-Feb-2020 15:28:50.683 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\tools\apache-tomcat-9.0.31\conf\logging.properties
+26-Feb-2020 15:28:50.683 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+26-Feb-2020 15:28:50.683 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+26-Feb-2020 15:28:50.683 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+26-Feb-2020 15:28:50.684 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+26-Feb-2020 15:28:50.684 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\tools\apache-tomcat-9.0.31
+26-Feb-2020 15:28:50.687 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\tools\apache-tomcat-9.0.31
+26-Feb-2020 15:28:50.687 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\tools\apache-tomcat-9.0.31\temp
+26-Feb-2020 15:28:50.687 ĞÅÏ¢ [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+26-Feb-2020 15:28:50.688 ĞÅÏ¢ [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+26-Feb-2020 15:28:50.688 ĞÅÏ¢ [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSLÅäÖÃ£ºuseAprConnector[false]£¬useOpenSSL[true]
+26-Feb-2020 15:28:50.697 ĞÅÏ¢ [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+26-Feb-2020 15:28:50.905 ĞÅÏ¢ [main] org.apache.coyote.AbstractProtocol.init ³õÊ¼»¯Ğ­Òé´¦ÀíÆ÷ ["http-nio-8080"]
+26-Feb-2020 15:28:51.810 ĞÅÏ¢ [main] org.apache.catalina.startup.Catalina.load ·şÎñÆ÷ÔÚ[1,289]ºÁÃëÄÚ³õÊ¼»¯
+26-Feb-2020 15:28:51.829 ĞÅÏ¢ [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+26-Feb-2020 15:28:51.829 ĞÅÏ¢ [main] org.apache.catalina.core.StandardEngine.startInternal ÕıÔÚÆô¶¯ Servlet ÒıÇæ£º[Apache Tomcat/9.0.31]
+26-Feb-2020 15:28:51.835 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\docs]
+26-Feb-2020 15:28:51.988 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\docs] has finished in [153] ms
+26-Feb-2020 15:28:51.988 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\examples]
+26-Feb-2020 15:28:52.180 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\examples] has finished in [192] ms
+26-Feb-2020 15:28:52.181 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\host-manager]
+26-Feb-2020 15:28:52.201 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\host-manager] has finished in [20] ms
+26-Feb-2020 15:28:52.201 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\jiteng]
+26-Feb-2020 15:28:52.219 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\jiteng] has finished in [17] ms
+26-Feb-2020 15:28:52.219 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\manager]
+26-Feb-2020 15:28:52.236 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\manager] has finished in [17] ms
+26-Feb-2020 15:28:52.237 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\ROOT]
+26-Feb-2020 15:28:52.252 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\ROOT] has finished in [15] ms
+26-Feb-2020 15:28:52.256 ĞÅÏ¢ [main] org.apache.coyote.AbstractProtocol.start ¿ªÊ¼Ğ­Òé´¦Àí¾ä±ú["http-nio-8080"]
+26-Feb-2020 15:28:52.265 ĞÅÏ¢ [main] org.apache.catalina.startup.Catalina.start Server startup in [453] milliseconds
+26-Feb-2020 15:30:50.004 ĞÅÏ¢ [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+26-Feb-2020 15:30:50.877 ĞÅÏ¢ [Thread-4] org.apache.catalina.core.StandardService.stopInternal ÕıÔÚÍ£Ö¹·şÎñ[Catalina]
+26-Feb-2020 15:30:50.894 ĞÅÏ¢ [Thread-4] org.apache.coyote.AbstractProtocol.stop ÕıÔÚÍ£Ö¹ProtocolHandler ["http-nio-8080"]
+26-Feb-2020 15:30:50.896 ĞÅÏ¢ [Thread-4] org.apache.coyote.AbstractProtocol.destroy ÕıÔÚ´İ»ÙĞ­Òé´¦ÀíÆ÷ ["http-nio-8080"]
+26-Feb-2020 15:30:55.764 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Server.·şÎñÆ÷°æ±¾:     Apache Tomcat/9.0.31
+26-Feb-2020 15:30:55.767 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log ·şÎñÆ÷¹¹½¨:            Feb 5 2020 19:32:12 UTC
+26-Feb-2020 15:30:55.767 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log ·şÎñÆ÷°æ±¾ºÅ(£º9.0.31.0
+26-Feb-2020 15:30:55.768 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+26-Feb-2020 15:30:55.768 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log OS.°æ±¾:               10.0
+26-Feb-2020 15:30:55.768 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log ¼Ü¹¹:                  amd64
+26-Feb-2020 15:30:55.768 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Java »·¾³±äÁ¿:         C:\Program Files\Java\jdk1.8.0_202\jre
+26-Feb-2020 15:30:55.768 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log JVM °æ±¾:              1.8.0_202-b08
+26-Feb-2020 15:30:55.768 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.¹©Ó¦ÉÌ:            Oracle Corporation
+26-Feb-2020 15:30:55.768 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\tools\apache-tomcat-9.0.31
+26-Feb-2020 15:30:55.768 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\tools\apache-tomcat-9.0.31
+26-Feb-2020 15:30:55.769 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\tools\apache-tomcat-9.0.31\conf\logging.properties
+26-Feb-2020 15:30:55.769 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+26-Feb-2020 15:30:55.769 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+26-Feb-2020 15:30:55.769 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+26-Feb-2020 15:30:55.769 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+26-Feb-2020 15:30:55.773 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\tools\apache-tomcat-9.0.31
+26-Feb-2020 15:30:55.774 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\tools\apache-tomcat-9.0.31
+26-Feb-2020 15:30:55.774 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\tools\apache-tomcat-9.0.31\temp
+26-Feb-2020 15:30:55.775 ĞÅÏ¢ [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+26-Feb-2020 15:30:55.775 ĞÅÏ¢ [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+26-Feb-2020 15:30:55.776 ĞÅÏ¢ [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSLÅäÖÃ£ºuseAprConnector[false]£¬useOpenSSL[true]
+26-Feb-2020 15:30:55.783 ĞÅÏ¢ [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+26-Feb-2020 15:30:55.980 ĞÅÏ¢ [main] org.apache.coyote.AbstractProtocol.init ³õÊ¼»¯Ğ­Òé´¦ÀíÆ÷ ["http-nio-8080"]
+26-Feb-2020 15:30:56.905 ĞÅÏ¢ [main] org.apache.catalina.startup.Catalina.load ·şÎñÆ÷ÔÚ[1,305]ºÁÃëÄÚ³õÊ¼»¯
+26-Feb-2020 15:30:56.928 ĞÅÏ¢ [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+26-Feb-2020 15:30:56.928 ĞÅÏ¢ [main] org.apache.catalina.core.StandardEngine.startInternal ÕıÔÚÆô¶¯ Servlet ÒıÇæ£º[Apache Tomcat/9.0.31]
+26-Feb-2020 15:30:56.936 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\docs]
+26-Feb-2020 15:30:57.111 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\docs] has finished in [175] ms
+26-Feb-2020 15:30:57.112 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\examples]
+26-Feb-2020 15:30:57.311 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\examples] has finished in [199] ms
+26-Feb-2020 15:30:57.312 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\host-manager]
+26-Feb-2020 15:30:57.333 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\host-manager] has finished in [21] ms
+26-Feb-2020 15:30:57.333 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\jiteng]
+26-Feb-2020 15:30:57.350 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\jiteng] has finished in [17] ms
+26-Feb-2020 15:30:57.351 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\manager]
+26-Feb-2020 15:30:57.369 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\manager] has finished in [17] ms
+26-Feb-2020 15:30:57.369 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\ROOT]
+26-Feb-2020 15:30:57.384 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\ROOT] has finished in [15] ms
+26-Feb-2020 15:30:57.388 ĞÅÏ¢ [main] org.apache.coyote.AbstractProtocol.start ¿ªÊ¼Ğ­Òé´¦Àí¾ä±ú["http-nio-8080"]
+26-Feb-2020 15:30:57.397 ĞÅÏ¢ [main] org.apache.catalina.startup.Catalina.start Server startup in [491] milliseconds
+26-Feb-2020 15:52:23.773 ÑÏÖØ [main] org.apache.catalina.startup.Catalina.stopServer Could not contact [localhost:8005] (base port [8005] and offset [0]). Tomcat may not be running.
+26-Feb-2020 15:52:23.779 ÑÏÖØ [main] org.apache.catalina.startup.Catalina.stopServer Í£Ö¹ Catalina Ê±³ö´í
+	java.net.ConnectException: Connection refused: connect
+		at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+		at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+		at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+		at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+		at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+		at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+		at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+		at java.net.Socket.connect(Socket.java:589)
+		at java.net.Socket.connect(Socket.java:538)
+		at java.net.Socket.<init>(Socket.java:434)
+		at java.net.Socket.<init>(Socket.java:211)
+		at org.apache.catalina.startup.Catalina.stopServer(Catalina.java:513)
+		at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.lang.reflect.Method.invoke(Method.java:498)
+		at org.apache.catalina.startup.Bootstrap.stopServer(Bootstrap.java:389)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:479)
+26-Feb-2020 15:52:31.119 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Server.·şÎñÆ÷°æ±¾:     Apache Tomcat/9.0.31
+26-Feb-2020 15:52:31.122 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log ·şÎñÆ÷¹¹½¨:            Feb 5 2020 19:32:12 UTC
+26-Feb-2020 15:52:31.123 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log ·şÎñÆ÷°æ±¾ºÅ(£º9.0.31.0
+26-Feb-2020 15:52:31.123 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+26-Feb-2020 15:52:31.123 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log OS.°æ±¾:               10.0
+26-Feb-2020 15:52:31.123 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log ¼Ü¹¹:                  amd64
+26-Feb-2020 15:52:31.123 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Java »·¾³±äÁ¿:         C:\Program Files\Java\jdk1.8.0_202\jre
+26-Feb-2020 15:52:31.123 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log JVM °æ±¾:              1.8.0_202-b08
+26-Feb-2020 15:52:31.124 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.¹©Ó¦ÉÌ:            Oracle Corporation
+26-Feb-2020 15:52:31.124 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\tools\apache-tomcat-9.0.31
+26-Feb-2020 15:52:31.124 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\tools\apache-tomcat-9.0.31
+26-Feb-2020 15:52:31.124 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\tools\apache-tomcat-9.0.31\conf\logging.properties
+26-Feb-2020 15:52:31.124 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+26-Feb-2020 15:52:31.125 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+26-Feb-2020 15:52:31.125 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+26-Feb-2020 15:52:31.129 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+26-Feb-2020 15:52:31.129 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\tools\apache-tomcat-9.0.31
+26-Feb-2020 15:52:31.129 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\tools\apache-tomcat-9.0.31
+26-Feb-2020 15:52:31.130 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\tools\apache-tomcat-9.0.31\temp
+26-Feb-2020 15:52:31.130 ĞÅÏ¢ [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+26-Feb-2020 15:52:31.131 ĞÅÏ¢ [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+26-Feb-2020 15:52:31.131 ĞÅÏ¢ [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSLÅäÖÃ£ºuseAprConnector[false]£¬useOpenSSL[true]
+26-Feb-2020 15:52:31.136 ĞÅÏ¢ [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+26-Feb-2020 15:52:31.343 ĞÅÏ¢ [main] org.apache.coyote.AbstractProtocol.init ³õÊ¼»¯Ğ­Òé´¦ÀíÆ÷ ["http-nio-8080"]
+26-Feb-2020 15:52:32.237 ĞÅÏ¢ [main] org.apache.catalina.startup.Catalina.load ·şÎñÆ÷ÔÚ[1,273]ºÁÃëÄÚ³õÊ¼»¯
+26-Feb-2020 15:52:32.255 ĞÅÏ¢ [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+26-Feb-2020 15:52:32.255 ĞÅÏ¢ [main] org.apache.catalina.core.StandardEngine.startInternal ÕıÔÚÆô¶¯ Servlet ÒıÇæ£º[Apache Tomcat/9.0.31]
+26-Feb-2020 15:52:32.261 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\docs]
+26-Feb-2020 15:52:32.415 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\docs] has finished in [154] ms
+26-Feb-2020 15:52:32.415 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\examples]
+26-Feb-2020 15:52:32.609 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\examples] has finished in [194] ms
+26-Feb-2020 15:52:32.610 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\host-manager]
+26-Feb-2020 15:52:32.630 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\host-manager] has finished in [20] ms
+26-Feb-2020 15:52:32.630 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\jiteng]
+26-Feb-2020 15:52:32.651 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\jiteng] has finished in [21] ms
+26-Feb-2020 15:52:32.651 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\manager]
+26-Feb-2020 15:52:32.667 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\manager] has finished in [16] ms
+26-Feb-2020 15:52:32.667 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\ROOT]
+26-Feb-2020 15:52:32.679 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\ROOT] has finished in [12] ms
+26-Feb-2020 15:52:32.684 ĞÅÏ¢ [main] org.apache.coyote.AbstractProtocol.start ¿ªÊ¼Ğ­Òé´¦Àí¾ä±ú["http-nio-8080"]
+26-Feb-2020 15:52:32.691 ĞÅÏ¢ [main] org.apache.catalina.startup.Catalina.start Server startup in [453] milliseconds
+26-Feb-2020 17:43:32.034 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Server.·şÎñÆ÷°æ±¾:     Apache Tomcat/9.0.31
+26-Feb-2020 17:43:32.038 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log ·şÎñÆ÷¹¹½¨:            Feb 5 2020 19:32:12 UTC
+26-Feb-2020 17:43:32.038 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log ·şÎñÆ÷°æ±¾ºÅ(£º9.0.31.0
+26-Feb-2020 17:43:32.038 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+26-Feb-2020 17:43:32.038 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log OS.°æ±¾:               10.0
+26-Feb-2020 17:43:32.039 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log ¼Ü¹¹:                  amd64
+26-Feb-2020 17:43:32.039 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Java »·¾³±äÁ¿:         C:\Program Files\Java\jdk1.8.0_202\jre
+26-Feb-2020 17:43:32.039 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log JVM °æ±¾:              1.8.0_202-b08
+26-Feb-2020 17:43:32.039 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.¹©Ó¦ÉÌ:            Oracle Corporation
+26-Feb-2020 17:43:32.039 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\tools\apache-tomcat-9.0.31
+26-Feb-2020 17:43:32.039 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\tools\apache-tomcat-9.0.31
+26-Feb-2020 17:43:32.040 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\tools\apache-tomcat-9.0.31\conf\logging.properties
+26-Feb-2020 17:43:32.040 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+26-Feb-2020 17:43:32.040 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+26-Feb-2020 17:43:32.040 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+26-Feb-2020 17:43:32.040 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+26-Feb-2020 17:43:32.040 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\tools\apache-tomcat-9.0.31
+26-Feb-2020 17:43:32.041 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\tools\apache-tomcat-9.0.31
+26-Feb-2020 17:43:32.041 ĞÅÏ¢ [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\tools\apache-tomcat-9.0.31\temp
+26-Feb-2020 17:43:32.042 ĞÅÏ¢ [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+26-Feb-2020 17:43:32.042 ĞÅÏ¢ [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+26-Feb-2020 17:43:32.042 ĞÅÏ¢ [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSLÅäÖÃ£ºuseAprConnector[false]£¬useOpenSSL[true]
+26-Feb-2020 17:43:32.049 ĞÅÏ¢ [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+26-Feb-2020 17:43:32.269 ĞÅÏ¢ [main] org.apache.coyote.AbstractProtocol.init ³õÊ¼»¯Ğ­Òé´¦ÀíÆ÷ ["http-nio-8080"]
+26-Feb-2020 17:43:33.179 ĞÅÏ¢ [main] org.apache.catalina.startup.Catalina.load ·şÎñÆ÷ÔÚ[1,299]ºÁÃëÄÚ³õÊ¼»¯
+26-Feb-2020 17:43:33.197 ĞÅÏ¢ [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+26-Feb-2020 17:43:33.197 ĞÅÏ¢ [main] org.apache.catalina.core.StandardEngine.startInternal ÕıÔÚÆô¶¯ Servlet ÒıÇæ£º[Apache Tomcat/9.0.31]
+26-Feb-2020 17:43:33.203 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\docs]
+26-Feb-2020 17:43:33.355 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\docs] has finished in [152] ms
+26-Feb-2020 17:43:33.356 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\examples]
+26-Feb-2020 17:43:33.552 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\examples] has finished in [196] ms
+26-Feb-2020 17:43:33.552 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\host-manager]
+26-Feb-2020 17:43:33.573 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\host-manager] has finished in [21] ms
+26-Feb-2020 17:43:33.574 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\jiteng]
+26-Feb-2020 17:43:33.593 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\jiteng] has finished in [18] ms
+26-Feb-2020 17:43:33.593 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\manager]
+26-Feb-2020 17:43:33.610 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\manager] has finished in [17] ms
+26-Feb-2020 17:43:33.610 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory °Ñweb Ó¦ÓÃ³ÌĞò²¿Êğµ½Ä¿Â¼ [D:\tools\apache-tomcat-9.0.31\webapps\ROOT]
+26-Feb-2020 17:43:33.625 ĞÅÏ¢ [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\ROOT] has finished in [14] ms
+26-Feb-2020 17:43:33.627 ĞÅÏ¢ [main] org.apache.coyote.AbstractProtocol.start ¿ªÊ¼Ğ­Òé´¦Àí¾ä±ú["http-nio-8080"]
+26-Feb-2020 17:43:33.634 ĞÅÏ¢ [main] org.apache.catalina.startup.Catalina.start Server startup in [454] milliseconds

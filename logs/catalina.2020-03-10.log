@@ -1,0 +1,2 @@
+10-Mar-2020 14:44:52.912 信息 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tools\apache-tomcat-9.0.31\webapps\element]
+10-Mar-2020 14:44:53.372 信息 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\element] has finished in [506] ms

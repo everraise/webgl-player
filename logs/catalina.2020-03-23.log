@@ -1,0 +1,157 @@
+23-Mar-2020 13:55:34.481 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本:     Apache Tomcat/9.0.31
+23-Mar-2020 13:55:34.488 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:            Feb 5 2020 19:32:12 UTC
+23-Mar-2020 13:55:34.489 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号(：9.0.31.0
+23-Mar-2020 13:55:34.489 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+23-Mar-2020 13:55:34.490 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:               10.0
+23-Mar-2020 13:55:34.490 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:                  amd64
+23-Mar-2020 13:55:34.490 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:         C:\Program Files\Java\jdk1.8.0_202\jre
+23-Mar-2020 13:55:34.490 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 版本:              1.8.0_202-b08
+23-Mar-2020 13:55:34.490 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:            Oracle Corporation
+23-Mar-2020 13:55:34.490 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\tools\apache-tomcat-9.0.31
+23-Mar-2020 13:55:34.491 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\tools\apache-tomcat-9.0.31
+23-Mar-2020 13:55:34.498 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\tools\apache-tomcat-9.0.31\conf\logging.properties
+23-Mar-2020 13:55:34.502 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-Mar-2020 13:55:34.502 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+23-Mar-2020 13:55:34.502 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+23-Mar-2020 13:55:34.502 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+23-Mar-2020 13:55:34.503 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\tools\apache-tomcat-9.0.31
+23-Mar-2020 13:55:34.505 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\tools\apache-tomcat-9.0.31
+23-Mar-2020 13:55:34.505 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\tools\apache-tomcat-9.0.31\temp
+23-Mar-2020 13:55:34.505 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+23-Mar-2020 13:55:34.506 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+23-Mar-2020 13:55:34.507 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL配置：useAprConnector[false]，useOpenSSL[true]
+23-Mar-2020 13:55:34.598 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+23-Mar-2020 13:55:35.000 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8080"]
+23-Mar-2020 13:55:35.937 信息 [main] org.apache.catalina.startup.Catalina.load 服务器在[1,797]毫秒内初始化
+23-Mar-2020 13:55:35.995 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+23-Mar-2020 13:55:35.995 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/9.0.31]
+23-Mar-2020 13:55:36.002 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tools\apache-tomcat-9.0.31\webapps\docs]
+23-Mar-2020 13:55:36.316 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\docs] has finished in [314] ms
+23-Mar-2020 13:55:36.316 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tools\apache-tomcat-9.0.31\webapps\element]
+23-Mar-2020 13:55:36.341 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\element] has finished in [25] ms
+23-Mar-2020 13:55:36.342 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tools\apache-tomcat-9.0.31\webapps\flv]
+23-Mar-2020 13:55:36.356 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\flv] has finished in [14] ms
+23-Mar-2020 13:55:36.356 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tools\apache-tomcat-9.0.31\webapps\flv.js-master]
+23-Mar-2020 13:55:36.372 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\flv.js-master] has finished in [16] ms
+23-Mar-2020 13:55:36.372 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tools\apache-tomcat-9.0.31\webapps\host-manager]
+23-Mar-2020 13:55:36.427 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\host-manager] has finished in [55] ms
+23-Mar-2020 13:55:36.428 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tools\apache-tomcat-9.0.31\webapps\jiteng]
+23-Mar-2020 13:55:36.442 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\jiteng] has finished in [14] ms
+23-Mar-2020 13:55:36.442 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tools\apache-tomcat-9.0.31\webapps\manager]
+23-Mar-2020 13:55:36.490 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\manager] has finished in [48] ms
+23-Mar-2020 13:55:36.491 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tools\apache-tomcat-9.0.31\webapps\ROOT]
+23-Mar-2020 13:55:36.506 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\ROOT] has finished in [15] ms
+23-Mar-2020 13:55:36.507 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tools\apache-tomcat-9.0.31\webapps\sss]
+23-Mar-2020 13:55:37.390 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\sss] has finished in [883] ms
+23-Mar-2020 13:55:37.391 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tools\apache-tomcat-9.0.31\webapps\three]
+23-Mar-2020 13:55:37.403 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\three] has finished in [12] ms
+23-Mar-2020 13:55:37.406 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8080"]
+23-Mar-2020 13:55:37.413 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in [1,475] milliseconds
+23-Mar-2020 14:01:25.391 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本:     Apache Tomcat/9.0.31
+23-Mar-2020 14:01:25.395 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:            Feb 5 2020 19:32:12 UTC
+23-Mar-2020 14:01:25.395 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号(：9.0.31.0
+23-Mar-2020 14:01:25.396 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+23-Mar-2020 14:01:25.396 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:               10.0
+23-Mar-2020 14:01:25.396 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:                  amd64
+23-Mar-2020 14:01:25.396 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:         C:\Program Files\Java\jdk1.8.0_202\jre
+23-Mar-2020 14:01:25.396 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 版本:              1.8.0_202-b08
+23-Mar-2020 14:01:25.396 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:            Oracle Corporation
+23-Mar-2020 14:01:25.396 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\tools\apache-tomcat-9.0.31
+23-Mar-2020 14:01:25.396 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\tools\apache-tomcat-9.0.31
+23-Mar-2020 14:01:25.398 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\tools\apache-tomcat-9.0.31\conf\logging.properties
+23-Mar-2020 14:01:25.399 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-Mar-2020 14:01:25.399 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+23-Mar-2020 14:01:25.399 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+23-Mar-2020 14:01:25.399 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+23-Mar-2020 14:01:25.399 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\tools\apache-tomcat-9.0.31
+23-Mar-2020 14:01:25.400 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\tools\apache-tomcat-9.0.31
+23-Mar-2020 14:01:25.402 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\tools\apache-tomcat-9.0.31\temp
+23-Mar-2020 14:01:25.403 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+23-Mar-2020 14:01:25.404 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+23-Mar-2020 14:01:25.408 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL配置：useAprConnector[false]，useOpenSSL[true]
+23-Mar-2020 14:01:25.420 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+23-Mar-2020 14:01:25.765 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8080"]
+23-Mar-2020 14:01:26.786 信息 [main] org.apache.catalina.startup.Catalina.load 服务器在[1,656]毫秒内初始化
+23-Mar-2020 14:01:26.809 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+23-Mar-2020 14:01:26.810 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/9.0.31]
+23-Mar-2020 14:01:26.819 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tools\apache-tomcat-9.0.31\webapps\docs]
+23-Mar-2020 14:01:27.004 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\docs] has finished in [184] ms
+23-Mar-2020 14:01:27.004 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tools\apache-tomcat-9.0.31\webapps\element]
+23-Mar-2020 14:01:27.029 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\element] has finished in [25] ms
+23-Mar-2020 14:01:27.030 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tools\apache-tomcat-9.0.31\webapps\flv]
+23-Mar-2020 14:01:27.046 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\flv] has finished in [17] ms
+23-Mar-2020 14:01:27.046 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tools\apache-tomcat-9.0.31\webapps\flv.js-master]
+23-Mar-2020 14:01:27.062 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\flv.js-master] has finished in [16] ms
+23-Mar-2020 14:01:27.063 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tools\apache-tomcat-9.0.31\webapps\host-manager]
+23-Mar-2020 14:01:27.094 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\host-manager] has finished in [31] ms
+23-Mar-2020 14:01:27.094 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tools\apache-tomcat-9.0.31\webapps\jiteng]
+23-Mar-2020 14:01:27.114 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\jiteng] has finished in [20] ms
+23-Mar-2020 14:01:27.114 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tools\apache-tomcat-9.0.31\webapps\manager]
+23-Mar-2020 14:01:27.155 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\manager] has finished in [41] ms
+23-Mar-2020 14:01:27.155 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tools\apache-tomcat-9.0.31\webapps\ROOT]
+23-Mar-2020 14:01:27.172 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\ROOT] has finished in [17] ms
+23-Mar-2020 14:01:27.173 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tools\apache-tomcat-9.0.31\webapps\sss]
+23-Mar-2020 14:01:27.355 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\sss] has finished in [183] ms
+23-Mar-2020 14:01:27.356 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tools\apache-tomcat-9.0.31\webapps\three]
+23-Mar-2020 14:01:27.373 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\three] has finished in [17] ms
+23-Mar-2020 14:01:27.377 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8080"]
+23-Mar-2020 14:01:27.388 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in [601] milliseconds
+23-Mar-2020 14:04:33.653 严重 [main] org.apache.catalina.startup.Catalina.stopServer Could not contact [localhost:8005] (base port [8005] and offset [0]). Tomcat may not be running.
+23-Mar-2020 14:04:52.038 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本:     Apache Tomcat/9.0.31
+23-Mar-2020 14:04:52.041 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:            Feb 5 2020 19:32:12 UTC
+23-Mar-2020 14:04:52.041 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号(：9.0.31.0
+23-Mar-2020 14:04:52.041 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+23-Mar-2020 14:04:52.041 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:               10.0
+23-Mar-2020 14:04:52.042 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:                  amd64
+23-Mar-2020 14:04:52.042 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:         C:\Program Files\Java\jdk1.8.0_202\jre
+23-Mar-2020 14:04:52.042 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 版本:              1.8.0_202-b08
+23-Mar-2020 14:04:52.042 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:            Oracle Corporation
+23-Mar-2020 14:04:52.042 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\tools\apache-tomcat-9.0.31
+23-Mar-2020 14:04:52.042 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\tools\apache-tomcat-9.0.31
+23-Mar-2020 14:04:52.043 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\tools\apache-tomcat-9.0.31\conf\logging.properties
+23-Mar-2020 14:04:52.043 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-Mar-2020 14:04:52.043 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+23-Mar-2020 14:04:52.043 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+23-Mar-2020 14:04:52.043 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+23-Mar-2020 14:04:52.044 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\tools\apache-tomcat-9.0.31
+23-Mar-2020 14:04:52.046 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\tools\apache-tomcat-9.0.31
+23-Mar-2020 14:04:52.046 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\tools\apache-tomcat-9.0.31\temp
+23-Mar-2020 14:04:52.046 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+23-Mar-2020 14:04:52.047 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+23-Mar-2020 14:04:52.047 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL配置：useAprConnector[false]，useOpenSSL[true]
+23-Mar-2020 14:04:52.052 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+23-Mar-2020 14:04:52.242 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8080"]
+23-Mar-2020 14:04:53.101 信息 [main] org.apache.catalina.startup.Catalina.load 服务器在[1,211]毫秒内初始化
+23-Mar-2020 14:04:53.119 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+23-Mar-2020 14:04:53.119 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/9.0.31]
+23-Mar-2020 14:04:53.125 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tools\apache-tomcat-9.0.31\webapps\docs]
+23-Mar-2020 14:04:53.295 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\docs] has finished in [171] ms
+23-Mar-2020 14:04:53.295 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tools\apache-tomcat-9.0.31\webapps\element]
+23-Mar-2020 14:04:53.317 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\element] has finished in [22] ms
+23-Mar-2020 14:04:53.317 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tools\apache-tomcat-9.0.31\webapps\flv]
+23-Mar-2020 14:04:53.332 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\flv] has finished in [15] ms
+23-Mar-2020 14:04:53.332 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tools\apache-tomcat-9.0.31\webapps\flv.js-master]
+23-Mar-2020 14:04:53.347 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\flv.js-master] has finished in [15] ms
+23-Mar-2020 14:04:53.347 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tools\apache-tomcat-9.0.31\webapps\host-manager]
+23-Mar-2020 14:04:53.371 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\host-manager] has finished in [24] ms
+23-Mar-2020 14:04:53.371 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tools\apache-tomcat-9.0.31\webapps\jiteng]
+23-Mar-2020 14:04:53.386 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\jiteng] has finished in [15] ms
+23-Mar-2020 14:04:53.387 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tools\apache-tomcat-9.0.31\webapps\manager]
+23-Mar-2020 14:04:53.417 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\manager] has finished in [29] ms
+23-Mar-2020 14:04:53.417 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tools\apache-tomcat-9.0.31\webapps\ROOT]
+23-Mar-2020 14:04:53.432 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\ROOT] has finished in [15] ms
+23-Mar-2020 14:04:53.433 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tools\apache-tomcat-9.0.31\webapps\sss]
+23-Mar-2020 14:04:53.606 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\sss] has finished in [173] ms
+23-Mar-2020 14:04:53.606 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tools\apache-tomcat-9.0.31\webapps\three]
+23-Mar-2020 14:04:53.618 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\three] has finished in [12] ms
+23-Mar-2020 14:04:53.621 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8080"]
+23-Mar-2020 14:04:53.627 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in [524] milliseconds
+23-Mar-2020 14:05:34.138 信息 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/three]
+23-Mar-2020 14:05:54.162 信息 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tools\apache-tomcat-9.0.31\webapps\three.js-dev]
+23-Mar-2020 14:05:54.182 信息 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\three.js-dev] has finished in [20] ms
+23-Mar-2020 14:06:14.691 信息 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/three.js-dev]
+23-Mar-2020 14:08:44.759 信息 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tools\apache-tomcat-9.0.31\webapps\three.js-dev]
+23-Mar-2020 14:08:44.785 信息 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\three.js-dev] has finished in [26] ms
+23-Mar-2020 14:09:25.302 信息 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/three.js-dev]
+23-Mar-2020 14:09:25.306 信息 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tools\apache-tomcat-9.0.31\webapps\three]
+23-Mar-2020 14:09:25.316 信息 [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tools\apache-tomcat-9.0.31\webapps\three] has finished in [10] ms

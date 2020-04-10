@@ -1,0 +1,6 @@
+127.0.0.1 - - [09/Mar/2020:14:43:57 +0800] "GET /flv.js-master/demo/index.html HTTP/1.1" 200 1958
+127.0.0.1 - - [09/Mar/2020:14:43:58 +0800] "GET /flv.js-master/flv.js-master/dist/flv.min.js HTTP/1.1" 404 734
+127.0.0.1 - - [09/Mar/2020:14:43:58 +0800] "GET /flv.js-master/flv.js-master/demo/demo.css HTTP/1.1" 404 732
+127.0.0.1 - - [09/Mar/2020:14:43:58 +0800] "GET /flv.js-master/flv.js-master/dist/flv.js HTTP/1.1" 404 730
+127.0.0.1 - - [09/Mar/2020:15:09:45 +0800] "GET /flv.js-master/demo/index.html HTTP/1.1" 200 2312
+127.0.0.1 - - [09/Mar/2020:15:09:45 +0800] "GET /flv.js-master/demo/dist/flv.js HTTP/1.1" 404 721
